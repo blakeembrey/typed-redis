@@ -1,4 +1,6 @@
 # Typed Node Redis
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/typed-redis.svg)](https://greenkeeper.io/)
 The type definition for [`redis`](https://github.com/NodeRedis/node_redis)
 
 ## LICENSE
